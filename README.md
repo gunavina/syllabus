@@ -4,7 +4,7 @@
 
 
 ## Course Overview
-This course will focus on helping students understand how the web works, help them acquire the fundamental and thorough knowledge of the 3 foundational languages that power each and every website and learn the design patterns used by the industry. This is a 2 month Course and at the end of this  course each of student will have a fully functional Web App which could be added to their portfolio’s.
+This course will focus on helping students understand how the web works, help them acquire the fundamental and advanced knowledge of the 3 foundational languages that power each and every website. Also, learn the design patterns used by the industry. This is a 2 month Course and at the end of this  course each of student will have a Fully Functional Web App which could be added to their portfolio’s.
 
 
 ## Teachers
